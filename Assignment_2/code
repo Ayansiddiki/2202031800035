@@ -1,0 +1,1171 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,100;1,900&display=swap"
+    />
+  </head>
+  <body>
+    <div class="music-app">
+      <div class="album">
+        <div class="find-song">
+          <div class="find-song1">Find Song</div>
+          <img class="find-song-child" alt="" src="./public/group-35937.svg" />
+        </div>
+        <div class="browse-all">
+          <div class="rectangle-parent">
+            <div class="group-child"></div>
+            <div class="podcasts">Podcasts</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2887@2x.png"
+            />
+          </div>
+          <div class="rectangle-group">
+            <div class="group-child"></div>
+            <div class="podcasts">Radio</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2889@2x.png"
+            />
+          </div>
+          <div class="rectangle-container">
+            <div class="group-child"></div>
+            <div class="podcasts">Mood</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2891@2x.png"
+            />
+          </div>
+          <div class="group-div">
+            <div class="group-child"></div>
+            <div class="podcasts">In car</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2893@2x.png"
+            />
+          </div>
+          <div class="rectangle-parent1">
+            <div class="group-child"></div>
+            <div class="podcasts">Discover</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2895@2x.png"
+            />
+          </div>
+          <div class="rectangle-parent2">
+            <div class="group-child"></div>
+            <div class="podcasts">Workout</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2897@2x.png"
+            />
+          </div>
+          <b class="browse-all1">Browse all</b>
+        </div>
+        <div class="your-top-genres">
+          <b class="browse-all1">Your top genres</b>
+          <div class="your-top-genres-child"></div>
+          <img
+            class="your-top-genres-item"
+            alt=""
+            src="./public/rectangle-2882@2x.png"
+          />
+
+          <div class="pop">Pop</div>
+          <div class="your-top-genres-inner"></div>
+          <div class="jazz">Jazz</div>
+          <img
+            class="your-top-genres-child1"
+            alt=""
+            src="./public/rectangle-2838@2x.png"
+          />
+
+          <div class="your-top-genres-child2"></div>
+          <div class="classic">Classic</div>
+          <img
+            class="your-top-genres-child3"
+            alt=""
+            src="./public/rectangle-2882@2x.png"
+          />
+
+          <div class="your-top-genres-child4"></div>
+          <div class="hip-hop">Hip Hop</div>
+          <img
+            class="your-top-genres-child5"
+            alt=""
+            src="./public/rectangle-2838@2x.png"
+          />
+
+          <div class="your-top-genres-child6"></div>
+          <div class="hard-rock">
+            <p class="hard">Hard</p>
+            <p class="hard">Rock</p>
+          </div>
+          <img
+            class="your-top-genres-child7"
+            alt=""
+            src="./public/rectangle-2833@2x.png"
+          />
+
+          <div class="your-top-genres-child8"></div>
+          <div class="rock1">Rock</div>
+          <img
+            class="your-top-genres-child9"
+            alt=""
+            src="./public/rectangle-2885@2x.png"
+          />
+        </div>
+        <div class="search">
+          <div class="search-music">Search music</div>
+          <img
+            class="iconlylight-outlinesearch"
+            alt=""
+            src="./public/iconlylight-outlinesearch.svg"
+          />
+        </div>
+        <img class="slider-icon" alt="" src="./public/slider@2x.png" />
+
+        <div class="navigation">
+          <img
+            class="navigation-child"
+            alt=""
+            src="./public/rectangle-2817.svg"
+          />
+
+          <img
+            class="navigation-item"
+            alt=""
+            src="./public/rectangle-2843.svg"
+          />
+
+          <div class="profile-parent">
+            <div class="profile">Profile</div>
+            <img class="group-icon" alt="" src="./public/group-35711.svg" />
+          </div>
+          <div class="group-parent">
+            <div class="rectangle-parent3">
+              <div class="group-child8"></div>
+              <div class="group-child9"></div>
+              <div class="group-child10"></div>
+            </div>
+            <div class="profile">Library</div>
+          </div>
+          <div class="vector-parent">
+            <img class="vector-icon" alt="" src="./public/vector.svg" />
+
+            <div class="profile">Home</div>
+          </div>
+          <div class="search-parent">
+            <div class="profile">Search</div>
+            <img class="group-child11" alt="" src="./public/group-1439.svg" />
+          </div>
+        </div>
+      </div>
+      <div class="album1">
+        <div class="find-song2">
+          <div class="find-song1">Find Song</div>
+          <img class="find-song-child" alt="" src="./public/group-35937.svg" />
+        </div>
+        <div class="browse-all">
+          <div class="rectangle-parent">
+            <div class="group-child"></div>
+            <div class="podcasts">Podcasts</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2887@2x.png"
+            />
+          </div>
+          <div class="rectangle-group">
+            <div class="group-child"></div>
+            <div class="podcasts">Radio</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2889@2x.png"
+            />
+          </div>
+          <div class="rectangle-container">
+            <div class="group-child"></div>
+            <div class="podcasts">Mood</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2891@2x.png"
+            />
+          </div>
+          <div class="group-div">
+            <div class="group-child"></div>
+            <div class="podcasts">In car</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2893@2x.png"
+            />
+          </div>
+          <div class="rectangle-parent1">
+            <div class="group-child"></div>
+            <div class="podcasts">Discover</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2895@2x.png"
+            />
+          </div>
+          <div class="rectangle-parent2">
+            <div class="group-child"></div>
+            <div class="podcasts">Workout</div>
+            <img
+              class="group-item"
+              alt=""
+              src="./public/rectangle-2897@2x.png"
+            />
+          </div>
+          <b class="browse-all1">Browse all</b>
+        </div>
+        <div class="your-top-genres2">
+          <b class="browse-all1">Your top genres</b>
+          <div class="your-top-genres-child"></div>
+          <img
+            class="your-top-genres-item"
+            alt=""
+            src="./public/rectangle-2882@2x.png"
+          />
+
+          <div class="pop">Pop</div>
+          <div class="your-top-genres-inner"></div>
+          <div class="jazz">Jazz</div>
+          <img
+            class="your-top-genres-child1"
+            alt=""
+            src="./public/rectangle-2838@2x.png"
+          />
+
+          <div class="your-top-genres-child2"></div>
+          <div class="classic">Classic</div>
+          <img
+            class="your-top-genres-child3"
+            alt=""
+            src="./public/rectangle-2882@2x.png"
+          />
+
+          <div class="your-top-genres-child4"></div>
+          <div class="hip-hop">Hip Hop</div>
+          <img
+            class="your-top-genres-child5"
+            alt=""
+            src="./public/rectangle-2838@2x.png"
+          />
+
+          <div class="your-top-genres-child6"></div>
+          <div class="hard-rock">
+            <p class="hard">Hard</p>
+            <p class="hard">Rock</p>
+          </div>
+          <img
+            class="your-top-genres-child7"
+            alt=""
+            src="./public/rectangle-2833@2x.png"
+          />
+
+          <div class="your-top-genres-child8"></div>
+          <div class="rock1">Rock</div>
+          <img
+            class="your-top-genres-child9"
+            alt=""
+            src="./public/rectangle-2885@2x.png"
+          />
+
+          <img
+            class="material-symbolscheck-box-icon"
+            alt=""
+            src="./public/materialsymbolscheckbox.svg"
+          />
+        </div>
+        <div class="rectangle-parent10">
+          <div class="group-child24"></div>
+          <div class="group-child25"></div>
+          <div class="group-child26"></div>
+          <div class="group-child27"></div>
+          <div class="youtube">Youtube</div>
+          <div class="spotify">Spotify</div>
+          <div class="apple-music">Apple Music</div>
+          <img
+            class="material-symbolscheck-box-out-icon"
+            alt=""
+            src="./public/materialsymbolscheckboxoutlineblank.svg"
+          />
+
+          <img
+            class="material-symbolscheck-box-out-icon1"
+            alt=""
+            src="./public/materialsymbolscheckboxoutlineblank.svg"
+          />
+
+          <img
+            class="material-symbolscheck-box-icon1"
+            alt=""
+            src="./public/materialsymbolscheckbox.svg"
+          />
+        </div>
+        <div class="search2">
+          <div class="playlist">Search music</div>
+          <img
+            class="iconlylight-outlinesearch1"
+            alt=""
+            src="./public/iconlylight-outlinesearch.svg"
+          />
+        </div>
+        <img class="slider-icon1" alt="" src="./public/slider@2x.png" />
+
+        <div class="album-child"></div>
+        <div class="navigation">
+          <img
+            class="navigation-child"
+            alt=""
+            src="./public/rectangle-2817.svg"
+          />
+
+          <img
+            class="navigation-item"
+            alt=""
+            src="./public/rectangle-2843.svg"
+          />
+
+          <div class="profile-parent">
+            <div class="profile">Profile</div>
+            <img class="group-icon" alt="" src="./public/group-35711.svg" />
+          </div>
+          <div class="group-parent">
+            <div class="rectangle-parent3">
+              <div class="group-child8"></div>
+              <div class="group-child9"></div>
+              <div class="group-child10"></div>
+            </div>
+            <div class="profile">Library</div>
+          </div>
+          <div class="vector-parent">
+            <img class="vector-icon" alt="" src="./public/vector.svg" />
+
+            <div class="profile">Home</div>
+          </div>
+          <div class="search-parent">
+            <div class="profile">Search</div>
+            <img class="group-child11" alt="" src="./public/group-1439.svg" />
+          </div>
+        </div>
+      </div>
+      <div class="all">
+        <div class="searchsett">
+          <div class="search4">
+            <div class="playlist">Search music</div>
+            <img
+              class="iconlylight-outlinesearch1"
+              alt=""
+              src="./public/iconlylight-outlinesearch.svg"
+            />
+          </div>
+        </div>
+        <div class="frame-parent">
+          <div class="all-wrapper">
+            <b class="playlist">All</b>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Album</div>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Playlist</div>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Artist</div>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Explpore</div>
+          </div>
+        </div>
+        <div class="frame-group">
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+          <div class="frame-container">
+            <div class="mustafa-jaan-e-rehmat-pe-lakho-parent">
+              <div class="mustafa-jaan-e">
+                Mustafa Jaan E Rehmat Pe Lakhon Salam
+              </div>
+              <div class="atif-aslam-boss">Atif Aslam, Boss Menn</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+        </div>
+        <div class="all-child"></div>
+        <div class="rectangle-parent12">
+          <div class="group-child33"></div>
+          <div class="frame-wrapper">
+            <div class="group-parent1">
+              <div class="cheerful-young-arabian-woman-l-parent">
+                <img
+                  class="cheerful-young-arabian-woman-l"
+                  alt=""
+                  src="./public/cheerful-young-arabian-woman-listening-music-on-headphone-against-yellow-background@2x.png"
+                />
+
+                <div class="group-parent2">
+                  <div class="frame-wrapper1">
+                    <div class="mustafa-jaan-e-rehmat-pe-parent">
+                      <div class="mustafa-jaan-e13">
+                        Mustafa Jaan E Rehmat Pe
+                      </div>
+                      <div class="atif-aslam-boss13">Atif Aslam, Boss Menn</div>
+                    </div>
+                  </div>
+                  <img
+                    class="group-child34"
+                    alt=""
+                    src="./public/group-11.svg"
+                  />
+                </div>
+              </div>
+              <div class="ellipse-parent">
+                <div class="ellipse-div"></div>
+                <div class="rectangle-parent13">
+                  <div class="group-child35"></div>
+                  <div class="group-child36"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="album3">
+        <div class="frame-parent12">
+          <div class="album-wrapper">
+            <div class="playlist">All</div>
+          </div>
+          <div class="all-wrapper">
+            <b class="playlist">Album</b>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Playlist</div>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Artist</div>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Explpore</div>
+          </div>
+        </div>
+        <div class="all-child"></div>
+        <div class="group-parent3">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">Islamic - Mix</div>
+        </div>
+        <b class="explore-the-album">Explore The Album</b>
+        <div class="group-parent4">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">Quranic - Sura</div>
+        </div>
+        <div class="group-parent5">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">Quranic - Sura</div>
+        </div>
+        <div class="group-parent6">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">Durod - Sharif</div>
+        </div>
+        <div class="group-parent7">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">All Zikirs</div>
+        </div>
+        <div class="group-parent8">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">All Zikirs</div>
+        </div>
+        <i class="music">Music</i>
+        <img class="notification-icon" alt="" src="./public/notification.svg" />
+
+        <img class="settings-icon" alt="" src="./public/settings.svg" />
+
+        <div class="navigation2">
+          <img
+            class="navigation-child"
+            alt=""
+            src="./public/rectangle-2817.svg"
+          />
+
+          <img
+            class="navigation-item"
+            alt=""
+            src="./public/rectangle-2843.svg"
+          />
+
+          <div class="profile-parent">
+            <div class="profile">Profile</div>
+            <img class="group-icon" alt="" src="./public/group-35711.svg" />
+          </div>
+          <div class="group-parent">
+            <div class="rectangle-parent3">
+              <div class="group-child8"></div>
+              <div class="group-child9"></div>
+              <div class="group-child10"></div>
+            </div>
+            <div class="profile">Library</div>
+          </div>
+          <div class="vector-container">
+            <img class="vector-icon" alt="" src="./public/vector.svg" />
+
+            <div class="profile">Home</div>
+          </div>
+          <div class="search-container">
+            <div class="profile">Search</div>
+            <img class="group-child11" alt="" src="./public/group-1439.svg" />
+          </div>
+        </div>
+      </div>
+      <div class="album5">
+        <div class="frame-parent12">
+          <div class="album-wrapper">
+            <div class="playlist">All</div>
+          </div>
+          <div class="all-wrapper">
+            <b class="playlist">Album</b>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Playlist</div>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Artist</div>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Explpore</div>
+          </div>
+        </div>
+        <div class="all-child"></div>
+        <div class="group-parent3">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">Islamic - Mix</div>
+        </div>
+        <b class="explore-the-album">Explore The Album</b>
+        <div class="group-parent4">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">Quranic - Sura</div>
+        </div>
+        <div class="group-parent5">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">Quranic - Sura</div>
+        </div>
+        <div class="group-parent6">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">Durod - Sharif</div>
+        </div>
+        <div class="group-parent7">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">All Zikirs</div>
+        </div>
+        <div class="group-parent8">
+          <img class="frame-child11" alt="" src="./public/group-8@2x.png" />
+
+          <div class="mustafa-jaan-e">All Zikirs</div>
+        </div>
+        <i class="music">Music</i>
+        <img class="notification-icon" alt="" src="./public/notification.svg" />
+
+        <img class="settings-icon" alt="" src="./public/settings.svg" />
+
+        <div class="rectangle-parent15">
+          <div class="group-child33"></div>
+          <div class="frame-wrapper">
+            <div class="group-parent1">
+              <div class="cheerful-young-arabian-woman-l-parent">
+                <img
+                  class="cheerful-young-arabian-woman-l"
+                  alt=""
+                  src="./public/cheerful-young-arabian-woman-listening-music-on-headphone-against-yellow-background@2x.png"
+                />
+
+                <div class="group-parent2">
+                  <div class="frame-wrapper1">
+                    <div class="mustafa-jaan-e-rehmat-pe-parent">
+                      <div class="mustafa-jaan-e13">
+                        Mustafa Jaan E Rehmat Pe
+                      </div>
+                      <div class="atif-aslam-boss13">Atif Aslam, Boss Menn</div>
+                    </div>
+                  </div>
+                  <img
+                    class="group-child34"
+                    alt=""
+                    src="./public/group-11.svg"
+                  />
+                </div>
+              </div>
+              <div class="ellipse-parent">
+                <div class="ellipse-div"></div>
+                <div class="rectangle-parent13">
+                  <div class="group-child35"></div>
+                  <div class="group-child36"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="navigation2">
+          <img
+            class="navigation-child"
+            alt=""
+            src="./public/rectangle-2817.svg"
+          />
+
+          <img
+            class="navigation-item"
+            alt=""
+            src="./public/rectangle-2843.svg"
+          />
+
+          <div class="profile-parent">
+            <div class="profile">Profile</div>
+            <img class="group-icon" alt="" src="./public/group-35711.svg" />
+          </div>
+          <div class="group-parent">
+            <div class="rectangle-parent3">
+              <div class="group-child8"></div>
+              <div class="group-child9"></div>
+              <div class="group-child10"></div>
+            </div>
+            <div class="profile">Library</div>
+          </div>
+          <div class="vector-container">
+            <img class="vector-icon" alt="" src="./public/vector.svg" />
+
+            <div class="profile">Home</div>
+          </div>
+          <div class="search-container">
+            <div class="profile">Search</div>
+            <img class="group-child11" alt="" src="./public/group-1439.svg" />
+          </div>
+        </div>
+      </div>
+      <div class="music-app-child"></div>
+      <div class="playlist3">
+        <div class="searchsett1">
+          <div class="search4">
+            <div class="playlist">Search music</div>
+            <img
+              class="iconlylight-outlinesearch1"
+              alt=""
+              src="./public/iconlylight-outlinesearch.svg"
+            />
+          </div>
+        </div>
+        <div class="frame-parent14">
+          <div class="album-wrapper">
+            <div class="playlist">All</div>
+          </div>
+          <div class="album-wrapper1">
+            <div class="playlist">Album</div>
+          </div>
+          <div class="all-wrapper">
+            <b class="playlist">Playlist</b>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Artist</div>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Explpore</div>
+          </div>
+        </div>
+        <div class="all-child"></div>
+        <div class="rectangle-parent18">
+          <div class="group-child33"></div>
+          <div class="frame-wrapper">
+            <div class="group-parent1">
+              <div class="cheerful-young-arabian-woman-l-parent">
+                <img
+                  class="cheerful-young-arabian-woman-l"
+                  alt=""
+                  src="./public/cheerful-young-arabian-woman-listening-music-on-headphone-against-yellow-background@2x.png"
+                />
+
+                <div class="group-parent2">
+                  <div class="frame-wrapper1">
+                    <div class="mustafa-jaan-e-rehmat-pe-parent">
+                      <div class="mustafa-jaan-e13">
+                        Mustafa Jaan E Rehmat Pe
+                      </div>
+                      <div class="atif-aslam-boss13">Atif Aslam, Boss Menn</div>
+                    </div>
+                  </div>
+                  <img
+                    class="group-child34"
+                    alt=""
+                    src="./public/group-11.svg"
+                  />
+                </div>
+              </div>
+              <div class="ellipse-parent">
+                <div class="ellipse-div"></div>
+                <div class="rectangle-parent13">
+                  <div class="group-child35"></div>
+                  <div class="group-child36"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="frame-parent15">
+          <div class="group-parent21">
+            <img class="frame-child23" alt="" src="./public/group-19.svg" />
+
+            <div class="mustafa-jaan-e">New Playlist</div>
+          </div>
+          <img
+            class="iconlylight-outlinearrow-r"
+            alt=""
+            src="./public/iconlylight-outlinearrow---right-2.svg"
+          />
+        </div>
+        <div class="frame-parent16">
+          <div class="group-parent22">
+            <img class="frame-child23" alt="" src="./public/group-21.svg" />
+
+            <div class="recently-played">Recently Played</div>
+          </div>
+          <img
+            class="iconlylight-outlinearrow-r"
+            alt=""
+            src="./public/iconlylight-outlinearrow---right-2.svg"
+          />
+        </div>
+        <div class="frame-parent17">
+          <div class="group-parent23">
+            <img class="frame-child25" alt="" src="./public/group-22.svg" />
+
+            <div class="favorites">Favorites</div>
+          </div>
+          <img
+            class="iconlylight-outlinearrow-r"
+            alt=""
+            src="./public/iconlylight-outlinearrow---right-2.svg"
+          />
+        </div>
+      </div>
+      <div class="artist4">
+        <div class="searchsett2">
+          <div class="search4">
+            <div class="playlist">Search music</div>
+            <img
+              class="iconlylight-outlinesearch1"
+              alt=""
+              src="./public/iconlylight-outlinesearch.svg"
+            />
+          </div>
+        </div>
+        <div class="frame-parent14">
+          <div class="album-wrapper">
+            <div class="playlist">All</div>
+          </div>
+          <div class="album-wrapper1">
+            <div class="playlist">Album</div>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Playlist</div>
+          </div>
+          <div class="all-wrapper">
+            <b class="playlist">Artist</b>
+          </div>
+          <div class="album-wrapper">
+            <div class="playlist">Explpore</div>
+          </div>
+        </div>
+        <div class="all-child"></div>
+        <b class="favorite-artist-musics">favorite Artist Musics</b>
+        <div class="rectangle-parent20">
+          <img
+            class="frame-child26"
+            alt=""
+            src="./public/rectangle-17@2x.png"
+          />
+
+          <div class="frame-parent19">
+            <div class="life-of-prophet-shuaib-bangl-parent">
+              <div class="mustafa-jaan-e">Life of Prophet Shu'aib, Bangla</div>
+              <div class="atif-aslam-boss">Baseera Media</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+        </div>
+        <div class="rectangle-parent21">
+          <img
+            class="frame-child26"
+            alt=""
+            src="./public/rectangle-17@2x.png"
+          />
+
+          <div class="frame-parent19">
+            <div class="life-of-prophet-shuaib-bangl-parent">
+              <div class="yusuf-as-enthroned">
+                Yusuf (AS), enthroned from prison
+              </div>
+              <div class="atif-aslam-boss">Baseera Media</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+        </div>
+        <div class="rectangle-parent22">
+          <img
+            class="frame-child26"
+            alt=""
+            src="./public/rectangle-17@2x.png"
+          />
+
+          <div class="frame-parent19">
+            <div class="life-of-prophet-shuaib-bangl-parent">
+              <div class="mustafa-jaan-e">Meaning of Tahajjud</div>
+              <div class="atif-aslam-boss">Baseera Media</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+        </div>
+        <div class="rectangle-parent23">
+          <img
+            class="frame-child26"
+            alt=""
+            src="./public/rectangle-17@2x.png"
+          />
+
+          <div class="frame-parent19">
+            <div class="life-of-prophet-shuaib-bangl-parent">
+              <div class="mustafa-jaan-e">Ishaq and Yakub (AS) Story</div>
+              <div class="atif-aslam-boss">Baseera Media</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+        </div>
+        <div class="rectangle-parent24">
+          <img
+            class="frame-child26"
+            alt=""
+            src="./public/rectangle-17@2x.png"
+          />
+
+          <div class="frame-parent19">
+            <div class="life-of-prophet-shuaib-bangl-parent">
+              <div class="mustafa-jaan-e">
+                Jahannam (Life - Death - Life, Episode 9)
+              </div>
+              <div class="atif-aslam-boss">Baseera Media</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+        </div>
+        <div class="rectangle-parent25">
+          <img
+            class="frame-child26"
+            alt=""
+            src="./public/rectangle-17@2x.png"
+          />
+
+          <div class="frame-parent19">
+            <div class="life-of-prophet-shuaib-bangl-parent">
+              <div class="mustafa-jaan-e">
+                The words of the Quran - Surah Bakbarah
+              </div>
+              <div class="atif-aslam-boss">Baseera Media</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+        </div>
+        <div class="rectangle-parent26">
+          <img
+            class="frame-child26"
+            alt=""
+            src="./public/rectangle-17@2x.png"
+          />
+
+          <div class="frame-parent19">
+            <div class="life-of-prophet-shuaib-bangl-parent">
+              <div class="mustafa-jaan-e">Sirah 1 - An elite lineage</div>
+              <div class="atif-aslam-boss">Baseera Media</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+        </div>
+        <div class="rectangle-parent27">
+          <img
+            class="frame-child26"
+            alt=""
+            src="./public/rectangle-17@2x.png"
+          />
+
+          <div class="frame-parent19">
+            <div class="life-of-prophet-shuaib-bangl-parent">
+              <div class="mustafa-jaan-e">Life of Prophet Shu'aib, Bangla</div>
+              <div class="atif-aslam-boss">Baseera Media</div>
+            </div>
+            <img class="frame-child" alt="" src="./public/group-4.svg" />
+          </div>
+        </div>
+        <div class="rectangle-parent18">
+          <div class="group-child33"></div>
+          <div class="frame-wrapper">
+            <div class="group-parent1">
+              <div class="cheerful-young-arabian-woman-l-parent">
+                <img
+                  class="cheerful-young-arabian-woman-l"
+                  alt=""
+                  src="./public/cheerful-young-arabian-woman-listening-music-on-headphone-against-yellow-background@2x.png"
+                />
+
+                <div class="group-parent2">
+                  <div class="frame-wrapper1">
+                    <div class="mustafa-jaan-e-rehmat-pe-parent">
+                      <i class="mustafa-jaan-e16">Mustafa Jaan E Rehmat Pe </i>
+                      <div class="atif-aslam-boss13">Atif Aslam, Boss Menn</div>
+                    </div>
+                  </div>
+                  <img
+                    class="group-child34"
+                    alt=""
+                    src="./public/group-11.svg"
+                  />
+                </div>
+              </div>
+              <div class="ellipse-parent">
+                <div class="ellipse-div"></div>
+                <div class="rectangle-parent13">
+                  <div class="group-child35"></div>
+                  <div class="group-child36"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <img class="mask-group-icon" alt="" src="./public/mask-group@2x.png" />
+
+        <div class="prashanth-media">Prashanth Media</div>
+        <div class="indian">Indian</div>
+        <img class="artist-item" alt="" src="./public/rectangle-16@2x.png" />
+      </div>
+      <div class="music-play">
+        <img class="music-play-child" alt="" src="./public/group-16.svg" />
+
+        <div class="music-play-inner">
+          <div class="group-parent26">
+            <div class="parent">
+              <div class="div">2:50</div>
+              <div class="div1">-1:30</div>
+            </div>
+            <img class="group-child62" alt="" src="./public/group-11.svg" />
+          </div>
+        </div>
+        <div class="music-play-item"></div>
+        <img class="mask-group-icon1" alt="" src="./public/mask-group@2x.png" />
+
+        <div class="music-play-child1"></div>
+        <img class="mask-group-icon2" alt="" src="./public/mask-group@2x.png" />
+
+        <img class="mask-group-icon3" alt="" src="./public/mask-group@2x.png" />
+
+        <div class="now-playing">
+          <b>Now </b>
+          <span>Playing</span>
+        </div>
+        <div class="iconlylight-outlinearrow-r-parent" id="frameContainer1">
+          <img
+            class="iconlylight-outlinearrow-r3"
+            alt=""
+            src="./public/iconlylight-outlinearrow---right-2@2x.png"
+          />
+
+          <div class="playlist">Back</div>
+        </div>
+        <b class="gorillaz">Gorillaz</b>
+        <div class="feel-good-inc">Feel Good Inc</div>
+        <div class="ellipse-parent2">
+          <div class="group-child63"></div>
+          <div class="rectangle-parent30">
+            <div class="group-child64"></div>
+            <div class="group-child65"></div>
+          </div>
+        </div>
+        <img class="polygon-icon" alt="" src="./public/polygon-5.svg" />
+
+        <div class="music-play-child2"></div>
+        <img class="music-play-child3" alt="" src="./public/polygon-6.svg" />
+
+        <div class="music-play-child4"></div>
+        <img class="music-play-child5" alt="" src="./public/group-35849.svg" />
+
+        <div class="group-group">
+          <img class="group-icon1" alt="" src="./public/group.svg" />
+
+          <div class="group-child66"></div>
+        </div>
+        <img class="group-icon2" alt="" src="./public/group.svg" />
+
+        <div class="polygon-parent">
+          <img class="group-child67" alt="" src="./public/polygon-5.svg" />
+
+          <div class="group-child68"></div>
+          <div class="group-child69"></div>
+          <div class="group-child70"></div>
+        </div>
+        <img class="like-icon" alt="" src="./public/like.svg" />
+      </div>
+      <img class="music-app-item" alt="" src="./public/group-1.svg" />
+
+      <div class="iphone-13-pro-max-2">
+        <img
+          class="openmojireturn-back-button-icon"
+          alt=""
+          src="./public/openmojireturnbackbutton.svg"
+        />
+
+        <div class="unsplashhtngl3bimb8">
+          <img
+            class="mask-group-icon4"
+            alt=""
+            src="./public/mask-group@2x.png"
+          />
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var frameContainer1 = document.getElementById("frameContainer1");
+      if (frameContainer1) {
+        frameContainer1.addEventListener("click", function (e) {
+          window.location.href = "./component.html";
+        });
+      }
+      </script>
+  </body>
+</html>
